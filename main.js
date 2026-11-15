@@ -6,7 +6,7 @@
    Isi "" jika tidak ada / belum diisi */
 const students=[
   {name:"A. Agil Agustiana",   role:"Student",  num:"01",hobby:"Gamer",    dream:"Engineering",        photo:"agil.jpeg",  tags:["PROGRAMMER","ENGGINERING"],      wa:"6285213938037",  ig:"syaagielz",    tt:"callme_gilll"},
-  {name:"Anggun Fitri Rahayu",     role:"Vice President",   num:"02",hobby:"Reading",     dream:"Doctor",          photo:"https://randomuser.me/api/portraits/women/44.jpg", tags:["Academic","Kind"],      wa:"6281234560002",ig:"siti.rahma",      tt:"sitirahma"},
+  {name:"Anggun Fitri Rahayu",     role:"Vice President",   num:"02",hobby:"Reading",     dream:"Doctor",          photo:"https://randomuser.me/api/portraits/women/44.jpg", tags:["Academic","Kind"],      wa:"6285891645626",ig:"fitrirahayufit ",  tt:"sitirahma"},
   {name:"Annisa Nur Novianti",   role:"Secretary", num:"03", hobby:"Photography", dream:"Journalist",      photo:"ANNISA.jpg",  tags:["Creative","Media"],     wa:"6285782705453",  ig:"annisanvanti_",    tt:"annisanvnti_"},
   {name:"Aula Rstiyani",   role:"Treasurer",        num:"04",hobby:"Cooking",     dream:"Chef",            photo:"https://randomuser.me/api/portraits/women/33.jpg", tags:["Organized","Culinary"], wa:"6281234560004",ig:"dewi.lestari",    tt:"dewilestari"},
   {name:"Bima Reksa P",role:"Student",         num:"05",hobby:"Gaming",      dream:"Game Dev",        photo:"https://randomuser.me/api/portraits/men/22.jpg",  tags:["Tech","Creative"],      wa:"6281234560005",ig:"rizky.firma",     tt:"rizkyfirma"},
@@ -25,7 +25,7 @@ const students=[
   {name:"M. Datul Kahfi",   role:"Student",          num:"18",hobby:"Gardening",   dream:"Botanist",        photo:"https://randomuser.me/api/portraits/women/47.jpg", tags:["Nature","Science"],     wa:"6281234560018",ig:"nina.kartika",    tt:"ninakartika"},
   {name:"M. Ginda",  role:"Student",          num:"19",hobby:"Film Editing", dream:"Director",       photo:"https://randomuser.me/api/portraits/men/29.jpg",  tags:["Media","Creative"],     wa:"6281234560019",ig:"oscar.permana",   tt:"oscarpermana"},
   {name:"M. Nabhan Al Elokhi",  role:"Student",          num:"20",hobby:"Touring",      dream:"CEO",    photo:"nabhan.jpeg", tags:["BOS","Preman pasar"],    wa:"6283124746615",ig:"mhmdnabhan__",   tt:"Nbhan_06"},
-  {name:"M. Reifan", role:"Student",          num:"21",hobby:"Calligraphy", dream:"Designer",        photo:"https://randomuser.me/api/portraits/women/19.jpg", tags:["Arts","Detail"],        wa:"6281234560021",ig:"qori.rahma",      tt:"qorirahma"},
+  {name:"M. Reifan", role:"Student",          num:"21",hobby:"Calligraphy", dream:"Designer",        photo:"reifan.jpg", tags:["Arts","Detail"],        wa:"6283872982194",ig:"ifannz_8",      tt:"qorirahma"},
   {name:"Novi Nur N",  role:"Student",          num:"22",hobby:"Robotics",    dream:"AI Researcher",   photo:"https://randomuser.me/api/portraits/men/36.jpg",  tags:["Tech","Future"],        wa:"6281234560022",ig:"rafi.alam",       tt:"rafialam"},
   {name:"Prama Danistya",role:"Student",          num:"23",hobby:"Origami",     dream:"Architect",       photo:"https://randomuser.me/api/portraits/women/31.jpg", tags:["Arts","Design"],        wa:"6281234560023",ig:"sabrina.hasanah", tt:"sabrinahasanah"},
   {name:"Raihan",  role:"Student",          num:"24",hobby:"Swimming",    dream:"Marine Biologist",photo:"https://randomuser.me/api/portraits/men/48.jpg",  tags:["Sports","Nature"],      wa:"6281234560024",ig:"teguh.subroto",   tt:"teguhsubroto"},
